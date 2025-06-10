@@ -1,6 +1,6 @@
 # Redux Tool Kit 
 
-<p>Live website [Varcel](https://redux-app-orpin.vercel.app/)</p>
+Live website [Varcel](https://redux-app-orpin.vercel.app/)
 
 
 # Getting Started with Create React App
